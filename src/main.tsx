@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
         message={'Este es un mensaje'}
     /> */}
     <CounterApp
-    value={0}
+    value={10}
     />
   </React.StrictMode>
 );
